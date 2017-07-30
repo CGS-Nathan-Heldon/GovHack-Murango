@@ -67,6 +67,9 @@
                                 <state key="normal" title="Continue">
                                     <color key="titleColor" red="0.97540809134353879" green="1" blue="0.98342637732923188" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
+                                <connections>
+                                    <segue destination="fT7-QI-YRw" kind="show" id="vs0-Gu-jmM"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Murango - GovHack" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hBb-Op-C0I">
                                 <rect key="frame" x="59" y="28" width="278" height="39"/>
